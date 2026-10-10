@@ -13,4 +13,4 @@ Responsive design
 
 🛠️ Technologies Used
 
-MERN STACK. yes in the big 26 lol
+MERN STACK. 
